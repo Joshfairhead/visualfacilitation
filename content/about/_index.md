@@ -108,10 +108,37 @@ weight = 1
 <div class="container">
 <p class="section-label">About</p>
 <div class="about__divider"></div>
-<p class="about__text">When teams encounter complex challenges, unclear priorities, or competing perspectives, I offer a facilitated process around shared frameworks (referents) where commonalities emerge naturally as structured wholeness. We map what's actually happening, what matters most, and the most resonant pathways forward.</p>
+<!-- Three Horizons: H1 (stuck) → H3 (what emerges) → H2 (the holding) -->
+<!-- NOTE: "self-organisation through visual facilitation" — worth exploring as a tagline; esoteric connotations -->
+<p class="about__text">
+<span class="about__h1">Most groups aren't broken. They're unable to hear each other through the daily noise they struggle to organise.</span>
+<span class="about__h3">Visual facilitation helps each voice to be heard, from which a coherent shared vision can emerge.</span>
+<span class="about__h2">I offer the frameworks, hold the space, and guide the process towards understanding.</span>
+</p>
 </div>
 </section>
 
+<section class="journey">
+<div class="container">
+<p class="section-label">The Journey</p>
+<div class="journey__grid">
+<div class="journey__phase">
+<div class="journey__hex journey__hex--h1">Discovery</div>
+<p class="journey__desc">Conversations, interviews, gathering context. Sensing into things as they are and understanding the landscape.</p>
+</div>
+<div class="journey__phase">
+<div class="journey__hex journey__hex--h2">Facilitation</div>
+<p class="journey__desc">Bringing people together to work through the three horizons: where things stand, where they could go, and what bridges the two.</p>
+</div>
+<div class="journey__phase">
+<div class="journey__hex journey__hex--h3">Action Plans</div>
+<p class="journey__desc">What emerges from the process. Concrete steps, aligned priorities, and plans the group can act on.</p>
+</div>
+</div>
+</div>
+</section>
+
+<!-- Original services grid (kept for reference)
 <section class="services">
 <div class="container">
 <p class="section-label">How We Work Together</p>
@@ -129,6 +156,7 @@ weight = 1
 </div>
 </div>
 </section>
+-->
 
 <section class="methodologies">
 <div class="container">
