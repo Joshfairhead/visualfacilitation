@@ -128,7 +128,7 @@ weight = 1
 </div>
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h2">Facilitation</div>
-<p class="journey__desc">Bringing people together to work through the three horizons: where things stand, where they could go, and what bridges the two.</p>
+<p class="journey__desc">Bringing people together through core methodologies to build shared understanding of where things stand, where they could go, and what connects the two.</p>
 </div>
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h3">Action Plans</div>
