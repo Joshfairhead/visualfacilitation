@@ -130,7 +130,7 @@ weight = 1
 </div>
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h3">Action Plans</div>
-<p class="journey__desc">Organised and coherent output aligning intentions so that teams can act with agency.</p>
+<p class="journey__desc">Organised and actionable output enabling teams to move with agency.</p>
 </div>
 </div>
 </div>
