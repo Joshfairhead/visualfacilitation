@@ -108,12 +108,10 @@ weight = 1
 <div class="container">
 <p class="section-label">About</p>
 <div class="about__divider"></div>
-<!-- Three Horizons: H1 (stuck) → H3 (what emerges) → H2 (the holding) -->
-<!-- NOTE: "self-organisation through visual facilitation" — worth exploring as a tagline; esoteric connotations -->
 <p class="about__text">
-<span class="about__h1">Most groups aren't broken. They're unable to hear each other through the daily noise they struggle to organise.</span>
-<span class="about__h3">Visual facilitation helps each voice to be heard, from which a coherent shared vision can emerge.</span>
-<span class="about__h2">I offer the frameworks, hold the space, and guide the process towards understanding.</span>
+<span class="about__h1">Groups today aren't broken, they just can't hear each other properly through the noise of activity so struggle to self organise.</span>
+<span class="about__h3">Visual facilitation helps each voice to be heard in order to form a coherent group vision.</span>
+<span class="about__h2">I offer the frameworks, hold the space and guide the process towards a shared understanding.</span>
 </p>
 </div>
 </section>
@@ -124,15 +122,15 @@ weight = 1
 <div class="journey__grid">
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h1">Discovery</div>
-<p class="journey__desc">Conversations, interviews, gathering context. Sensing into things as they are and understanding the landscape.</p>
+<p class="journey__desc">Conversations and context gathering, necessary to understand the landscape and set the field.</p>
 </div>
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h2">Facilitation</div>
-<p class="journey__desc">Bringing people together to work through the three horizons: where things stand, where they could go, and what bridges the two.</p>
+<p class="journey__desc">Bringing people together to visibly build bridges between their different worlds.</p>
 </div>
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h3">Action Plans</div>
-<p class="journey__desc">What emerges from the process. Concrete steps, aligned priorities, and plans the group can act on.</p>
+<p class="journey__desc">Organised and coherent output aligning intentions so that teams can act with agency.</p>
 </div>
 </div>
 </div>
