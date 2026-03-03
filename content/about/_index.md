@@ -109,9 +109,9 @@ weight = 1
 <p class="section-label">About</p>
 <div class="about__divider"></div>
 <p class="about__text">
-<span class="about__h1">Groups today aren't broken, they just can't hear each other properly through the noise of activity so struggle to self organise.</span>
-<span class="about__h3">Visual facilitation helps each voice to be heard in order to form a coherent group vision.</span>
-<span class="about__h2">I offer the frameworks, hold the space and guide the process towards a shared understanding.</span>
+<span class="about__h1">Groups today aren't broken, they just can't hear each other properly through the noise of activity and so struggle to self organise.</span>
+<span class="about__h3">Visual facilitation enables each voice to be heard, in order to form a coherent group vision.</span>
+<span class="about__h2">I offer the frameworks, hold the space and guide the process towards shared understanding.</span>
 </p>
 </div>
 </section>
@@ -122,11 +122,11 @@ weight = 1
 <div class="journey__grid">
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h1">Discovery</div>
-<p class="journey__desc">Conversations and context gathering, necessary to understand the landscape and set the field.</p>
+<p class="journey__desc">Context gathering through conversation, first steps to understanding the landscape.</p>
 </div>
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h2">Facilitation</div>
-<p class="journey__desc">Bringing people together to visibly build bridges between their different worlds.</p>
+<p class="journey__desc">Bringing people together to build bridges between different world views.</p>
 </div>
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h3">Action Plans</div>
