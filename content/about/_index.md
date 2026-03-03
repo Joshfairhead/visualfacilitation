@@ -109,9 +109,9 @@ weight = 1
 <p class="section-label">About</p>
 <div class="about__divider"></div>
 <p class="about__text">
-<span class="about__h1">Groups today aren't broken, they just can't hear each other properly through the noise of activity so struggle to self organise.</span>
-<span class="about__h3">Visual facilitation helps each voice to be heard in order to form a coherent group vision.</span>
-<span class="about__h2">I offer the frameworks, hold the space and guide the process towards a shared understanding.</span>
+<span class="about__h1">Groups today aren't broken, they just can't hear each other properly through the noise of activity and so struggle to self organise.</span>
+<span class="about__h3">Visual facilitation enables each voice to be heard, in order to form a coherent group vision.</span>
+<span class="about__h2">I offer the frameworks, hold the space and guide the process towards shared understanding.</span>
 </p>
 </div>
 </section>
@@ -119,18 +119,19 @@ weight = 1
 <section class="journey">
 <div class="container">
 <p class="section-label">The Journey</p>
+<div class="section-divider"></div>
 <div class="journey__grid">
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h1">Discovery</div>
-<p class="journey__desc">Conversations and context gathering, necessary to understand the landscape and set the field.</p>
+<p class="journey__desc">Context gathering through conversation, first steps to understanding the landscape.</p>
 </div>
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h2">Facilitation</div>
-<p class="journey__desc">Bringing people together to visibly build bridges between their different worlds.</p>
+<p class="journey__desc">Bringing people together to build bridges between their different worlds.</p>
 </div>
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h3">Action Plans</div>
-<p class="journey__desc">Organised and coherent output aligning intentions so that teams can act with agency.</p>
+<p class="journey__desc">Organised and actionable output that enables teams to move with agency.</p>
 </div>
 </div>
 </div>
@@ -159,6 +160,7 @@ weight = 1
 <section class="methodologies">
 <div class="container">
 <p class="section-label">Core Methodologies</p>
+<div class="section-divider"></div>
 <div class="methodologies__grid">
 <div class="methodology-card">
 <div class="methodology-card__title">Complexity Mapping</div>
