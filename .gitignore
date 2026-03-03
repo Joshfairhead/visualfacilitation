@@ -4,3 +4,6 @@ public/
 *.AVI
 *.mp4
 *.mov
+
+# Local Netlify folder
+.netlify
