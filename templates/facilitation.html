@@ -329,6 +329,64 @@
             display: none;
         }
 
+        /* Social Proof Carousel */
+        .social-proof {
+            padding: 4rem 0 3rem;
+        }
+
+        .carousel {
+            overflow: hidden;
+            width: 100%;
+            mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+            -webkit-mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+        }
+
+        .carousel__track {
+            display: flex;
+            gap: 1.5rem;
+            animation: carousel-scroll 40s linear infinite;
+            width: max-content;
+        }
+
+        .carousel__track:hover {
+            animation-play-state: paused;
+        }
+
+        @keyframes carousel-scroll {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-50%);
+            }
+        }
+
+        .carousel__card {
+            flex-shrink: 0;
+            width: 320px;
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            padding: 1.75rem 1.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .carousel__quote {
+            font-size: 0.9375rem;
+            color: #334155;
+            line-height: 1.7;
+            font-style: italic;
+            margin-bottom: 1rem;
+        }
+
+        .carousel__author {
+            font-size: 0.8125rem;
+            font-weight: 600;
+            color: #1e40af;
+        }
+
         /* CTA Section */
         .cta {
             padding: 5rem 0;
@@ -378,23 +436,55 @@
             color: #1e40af;
         }
 
-        /* Responsive */
+        /* Responsive - Tablet */
+        @media (max-width: 768px) {
+            .about {
+                padding: 3.5rem 0;
+            }
+
+            .about__text {
+                font-size: 1.0625rem;
+            }
+
+            .journey {
+                padding: 3.5rem 0;
+            }
+
+            .methodologies {
+                padding: 3rem 0;
+            }
+        }
+
+        /* Responsive - Mobile */
         @media (max-width: 640px) {
             .container {
                 padding: 0 1.25rem;
             }
 
             .hero {
-                min-height: 58vh;
+                min-height: 50vh;
             }
 
             .hero__headline {
-                font-size: 1.75rem;
+                font-size: 1.5rem;
                 white-space: normal;
             }
 
             .hero__subtext {
                 font-size: 1rem;
+            }
+
+            .about {
+                padding: 2.5rem 0;
+            }
+
+            .about__text {
+                font-size: 0.9375rem;
+                line-height: 1.8;
+            }
+
+            .journey {
+                padding: 2.5rem 0;
             }
 
             .journey__grid {
@@ -404,13 +494,21 @@
             }
 
             .journey__phase {
-                max-width: 280px;
+                max-width: 300px;
             }
 
             .journey__hex {
                 width: 160px;
                 height: 185px;
                 font-size: 0.9375rem;
+            }
+
+            .journey__desc {
+                font-size: 0.875rem;
+            }
+
+            .methodologies {
+                padding: 2.5rem 0;
             }
 
             .methodologies__grid {
@@ -440,8 +538,21 @@
                 font-size: 0.75rem;
             }
 
+            .carousel__card {
+                width: 260px;
+                padding: 1.25rem 1rem;
+            }
+
+            .carousel__quote {
+                font-size: 0.875rem;
+            }
+
             .cta {
                 padding: 3rem 0;
+            }
+
+            .cta__headline {
+                font-size: 1.25rem;
             }
         }
     </style>
