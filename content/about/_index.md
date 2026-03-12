@@ -6,7 +6,7 @@ weight = 1
 
 <section class="hero">
 <div class="container">
-<h1 class="hero__headline">Helping teams find alignment through visual facilitation.</h1>
+<h1 class="hero__headline">Every voice accounted for.</h1>
 </div>
 <svg class="hero__curves" viewBox="0 0 1200 500" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
@@ -109,9 +109,9 @@ weight = 1
 <p class="section-label">About</p>
 <div class="about__divider"></div>
 <p class="about__text">
-<span class="about__h1">Groups today aren't broken, they just can't hear each other properly through the noise of activity and so struggle to self organise.</span>
-<span class="about__h3">Visual facilitation enables each voice to be heard, in order to form a coherent group vision.</span>
-<span class="about__h2">I offer the frameworks, hold the space and guide the process towards shared understanding.</span>
+<span class="about__h1">Groups lose coherence when they lack shared understanding.</span>
+<span class="about__h3">Visual facilitation provides a consistent frame of reference that participants decorate together.</span>
+<span class="about__h2">I offer the frameworks and hold the space, remarkable groups bring their own collective intelligence.</span>
 </p>
 </div>
 </section>
@@ -131,7 +131,7 @@ weight = 1
 </div>
 <div class="journey__phase">
 <div class="journey__hex journey__hex--h3">Action Plans</div>
-<p class="journey__desc">Organised and actionable output that enables teams to move with agency.</p>
+<p class="journey__desc">Compiling learnings into an action plan and guiding subsequent sessions.</p>
 </div>
 </div>
 </div>
@@ -201,6 +201,67 @@ weight = 1
 </div>
 </div>
 </section>
+
+<!-- Social proof carousel - uncomment when real testimonials are available
+<section class="social-proof">
+<div class="container">
+<p class="section-label">What People Say</p>
+<div class="section-divider"></div>
+</div>
+<div class="carousel">
+<div class="carousel__track">
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+<div class="carousel__card">
+<p class="carousel__quote"></p>
+<p class="carousel__author"></p>
+</div>
+</div>
+</div>
+</section>
+-->
 
 <section class="cta">
 <div class="container">
