@@ -198,6 +198,10 @@ weight = 1
 <div class="methodology-card__title">World Game</div>
 <div class="methodology-card__description">Making the world work for 100% of humanity through collaborative design.</div>
 </div>
+<div class="methodology-card">
+<div class="methodology-card__title">General Systematics</div>
+<div class="methodology-card__description">Structured frameworks for understanding qualitative significance through systems of increasing term numbers.</div>
+</div>
 </div>
 </div>
 </section>
