@@ -6,7 +6,7 @@ weight = 1
 
 <section class="hero">
 <div class="container">
-<h1 class="hero__headline">Every voice accounted for.</h1>
+<h1 class="hero__headline">Resource management for uncertain futures.</h1>
 </div>
 <svg class="hero__curves" viewBox="0 0 1200 500" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
@@ -109,9 +109,9 @@ weight = 1
 <p class="section-label">About</p>
 <div class="about__divider"></div>
 <p class="about__text">
-<span class="about__h1">Groups lose coherence when they lack shared understanding.</span>
-<span class="about__h3">Visual facilitation provides a consistent frame of reference that participants decorate together.</span>
-<span class="about__h2">I offer the frameworks and hold the space, remarkable groups bring their own collective intelligence.</span>
+<span class="about__h1">Misaligned organisations waste time, money and energy.</span>
+<span class="about__h3">Visual facilitation helps your team become accountable.</span>
+<span class="about__h2">I provide the frameworks that help resources flow to where they are needed, so your organisation can face uncertain futures with clarity.</span>
 </p>
 </div>
 </section>
